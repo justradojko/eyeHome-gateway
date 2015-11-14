@@ -78,57 +78,45 @@ void loop(){
      decryptString();  // Decryptcs message from Server and stores it in String decStringFromServer     
      Serial.print("SERVER -> ARDUINO: ");
      Serial.println(decStringFromServer);
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '0'){  //message ACK/NACK from server
+     if (decStringFromServer.substring(0,1) == "00"){  //message ACK/NACK from server
         ACKReceivedFromServer();   
      }
           
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '1'){  //pending sensor state from Server
-       if (decStringFromServer.charAt(2) == userID.charAt(0) && 
-          decStringFromServer.charAt(3) == userID.charAt(1) && 
-          decStringFromServer.charAt(4) == userID.charAt(2) && 
-          decStringFromServer.charAt(5) == userID.charAt(3)) {  // discards sve poruke koje nemaju odogovarajuci userID
+     if (decStringFromServer.substring(0,1) == "01"){  //pending sensor state from Server
+       if (decStringFromServer.substring(2,5) == userID.substring(0,3) {  // discards sve poruke koje nemaju odogovarajuci userID
              newSensorStateReceivedFromServer(); //handling of new received data
              timeOfLastMessageFromServer = millis ();
        }      
      }
      
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '2'){  //new allowJoining state
-       if (decStringFromServer.charAt(2) == userID.charAt(0) && 
-          decStringFromServer.charAt(3) == userID.charAt(1) && 
-          decStringFromServer.charAt(4) == userID.charAt(2) && 
-          decStringFromServer.charAt(5) == userID.charAt(3)) {  // discards sve poruke koje nemaju odogovarajuci userID
+     if (decStringFromServer.substring(0,1) == "02"){  //new allowJoining state
+       if (decStringFromServer.substring(2,5) == userID.substring(0,3) {
             newAllowJoiningStateFromServer();  
             timeOfLastMessageFromServer = millis ();            
        }       
      }
      
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '3'){  //time update from Server
+     if (decStringFromServer.substring(0,1) == "03"){  //time update from Server
        timeReceivedFromServer();
        timeOfLastMessageFromServer = millis ();
      }   
      
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '4'){  //scheduling update
-       if (decStringFromServer.charAt(2) == userID.charAt(0) && 
-          decStringFromServer.charAt(3) == userID.charAt(1) && 
-          decStringFromServer.charAt(4) == userID.charAt(2) && 
-          decStringFromServer.charAt(5) == userID.charAt(3)) {  // discards sve poruke koje nemaju odogovarajuci userID
+     if (decStringFromServer.substring(0,1) == "04"){  //scheduling update
+       if (decStringFromServer.substring(2,5) == userID.substring(0,3) {
             newSchedulingFromServer();  
             timeOfLastMessageFromServer = millis ();            
        } 
      }     
      
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '5'){  //bind update from Server
+     if (decStringFromServer.substring(0,1) == "05"){  //bind update from Server
        Serial.print("BIND FROM SERVER: ");
        Serial.println(decStringFromServer);
        hanldeIncomingBind();
        timeOfLastMessageFromServer = millis ();
      } 
      
-     if (decStringFromServer.charAt(0) == '0' && decStringFromServer.charAt(1) == '6'){  //handle cycleTime for curtain
-       if (decStringFromServer.charAt(2) == userID.charAt(0) && 
-          decStringFromServer.charAt(3) == userID.charAt(1) && 
-          decStringFromServer.charAt(4) == userID.charAt(2) && 
-          decStringFromServer.charAt(5) == userID.charAt(3)) {  // discards sve poruke koje nemaju odogovarajuci userID
+     if (decStringFromServer.substring(0,1) == "06"){  //handle cycleTime for curtain
+       if (decStringFromServer.substring(2,5) == userID.substring(0,3) {
             handleCurtainCycleTimeUpdate();  
             timeOfLastMessageFromServer = millis ();            
        }       
