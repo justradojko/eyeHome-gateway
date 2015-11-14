@@ -1,0 +1,231 @@
+
+ARDUINO -> JENNIC: Polling Jennic 
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7382_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_5485_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_6307_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_398_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_4893_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_5090_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7035_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_323_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_2274_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_698_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7072_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7480_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9584_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_6095_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8712_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7533_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_2041_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9142_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9432_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7641_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_738_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8492_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8606_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_11_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_4092_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_19_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_5599_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_6637_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9996_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_769_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7400_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7379_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7835_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_3707_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9358_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_2728_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_379_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_6393_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_4632_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_4235_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8673_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_1704_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_3297_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8257_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9381_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_2009_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7373_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_1422_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_1152_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_6805_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_645_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_3471_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_5297_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_833_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_3481_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9388_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_852_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9079_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_7608_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_2430_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_1430_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_5008_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_1391_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9264_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_298_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_2332_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_3574_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_676_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8724_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8206_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_6492_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_1492_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_9789_88.88.88.88.88.88.88.88._
+
+JENNIC -> ARDUINO: Request for removing nod from db. Forwarding to server
+Message: DELN_1888_8819_88.88.88.88.88.88.88.88._
+Arduino software version 1.3
+Program starting for userID: 1888
+Initializing ethernet..
+Ethernet Initialized successfully
+Retreived IP addr: 152.88.86.166.
+Valid IP address
+

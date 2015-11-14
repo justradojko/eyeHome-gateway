@@ -1,0 +1,452 @@
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_764_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7382_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5485_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6307_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_398_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4893_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5090_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7035_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_323_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2274_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_698_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7072_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7480_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9584_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6095_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8712_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7533_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2041_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9142_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9432_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7641_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_738_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8492_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8606_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_11_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4092_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_19_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5599_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6637_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9996_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_769_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7400_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7379_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7835_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3707_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9358_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2728_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_379_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6393_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4632_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4235_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8673_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1704_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3297_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8257_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9381_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2009_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7373_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1422_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1152_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6805_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_645_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3471_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5297_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_833_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3481_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9388_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_852_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9079_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7608_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2430_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1430_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5008_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1391_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9264_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_298_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2332_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3574_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_676_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8724_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8206_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6492_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1492_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9789_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8819_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2455_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1798_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6192_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3876_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4531_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4579_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4521_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8001_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9875_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5353_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1483_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_846_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7786_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2144_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8453_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1799_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3574_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5044_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3189_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4420_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6923_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5520_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7994_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9180_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5827_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7782_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5673_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6388_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_856_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5462_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6789_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3311_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8841_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4563_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8768_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3373_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9141_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4871_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1374_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_599_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1807_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4438_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1445_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9592_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6582_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1480_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2973_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1738_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8105_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7744_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7739_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5028_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4846_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7315_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4209_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_2255_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_5097_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1464_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_8643_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7535_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_6925_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7014_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_846_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7348_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1578_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_9613_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_721_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_719_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_4485_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_3677_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_1318_5140_5140_
+
+JENNIC -> ARDUINO: Nod temperature update. Forwarding to server
+Message: TEMP_1888_7873_5140_5140_
+ 
+SERVER -> ARDUINO: 00_ACK_764_
+NO CONNECTION TO THE SERVER!!!
+Initializing ethernet..
+Ethernet Initialized successfully
+Retreived IP addr: 152.88.86.164.
+Valid IP address
+Ethernet initializes after connection lost
+Connection to the server successful
+Connection established again after connection lost
+ARDUINO -> SERVER: CHECK_1888_
+Resending pending messages
